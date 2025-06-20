@@ -272,16 +272,16 @@ Exercise 14: Accessing within nested arrays
 
 Complete Exercise 14 in the space below:
 */
-// const numArrays = [
-// 	[100, 5, 23],
-// 	[15, 21, 72, 9],
-// 	[45, 66],
-// 	[7, 81, 90]
-// ];
+const numArrays = [
+	[100, 5, 23],
+	[15, 21, 72, 9],
+	[45, 66],
+	[7, 81, 90]
+];
 
-// const num = (66);
+const num = (66);
 
-// console.log('Exercise 14 result:', num);
+console.log('Exercise 14 result:', num);
 /*
 Exercise 15: Nested array sum
 
