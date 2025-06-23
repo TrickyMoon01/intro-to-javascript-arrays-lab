@@ -308,3 +308,12 @@ numArrays.forEach((element) => {
 const total = (534)
 
 console.log('Exercise 15 result:\n', total);
+
+//
+let total = 0;
+
+numArrays.forEach(function(arr) {
+   arr.forEach(function(num) {
+      total = total + num;
+   });
+});
